@@ -1,1 +1,1 @@
-This repo contains shell utilities for the most part
+This repo contains utilities I've written and used
