@@ -1,5 +1,7 @@
 # IEEELinkGrabber
 
+Summary : Grabs IEEE links for given search string from www.http://ieeexplore.ieee.org/Xplore/home.jsp
+
 Input : Take as input a query string, the topic on which IEEE links are to be obtained
 
 Output : All the links on Page 1 of the IEEEXPLORE website returned as results for the input
